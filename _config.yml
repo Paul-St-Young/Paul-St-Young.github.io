@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Physics Graduate student"
   location         : "ESB 3137"
-  employer         : "University of Illinois Urbana Champaign"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=oW5Zu6UAAAAJ&hl=en"
   email            : "yyang173@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

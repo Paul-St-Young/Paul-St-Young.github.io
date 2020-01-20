@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I should write something about myself huh.
+This new website based on "academicpages" is a replacement for my old University-hosted [page][sector42], which may disappear soon.
+
+[sector42]: http://publish.illinois.edu/yubo-paul-yang

@@ -4,6 +4,14 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
+## To run locally from fresh Fedora install
+
+1. `sudo dnf install ruby-devel`  # gem
+2. `sudo dnf install rubygem-bundler`  # bundle
+3. `sudo dnf install redhat-rpm-config`  # redhat-hardened-cc1
+4. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+5. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yubo \"Paul\" Yang"
 title_separator          : "-"
 name                     : &name "Yubo \"Paul\" Yang"
-description              : &description "Graduate student at UIUC"
+description              : &description "Flatiron Research Fellow"
 url                      : https://Paul-St-Young.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Paul-St-Young/Paul-St-Young.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Yubo \"Paul\" Yang"
   avatar           : "portrait.jpg"
   bio              : "Physics Graduate student"
-  location         : "ESB 3137"
+  location         : "912A"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ZLz7D4IAAAAJ&hl=en"
-  email            : "yyang173@illinois.edu"
+  email            : "yubo.paul.yang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

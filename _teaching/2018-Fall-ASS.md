@@ -2,6 +2,7 @@
 title: "PHYS 466/MSE 485/CSE 485 Atomic Scale Simulation"
 collection: teaching
 type: "Class"
+date: 2018-09-01
 venue: "University of Illinois Urbana Champaign, Physics Department"
 location: "Urbana, Illinois"
 ---

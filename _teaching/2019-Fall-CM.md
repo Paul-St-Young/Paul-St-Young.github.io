@@ -2,6 +2,7 @@
 title: "PHYS 460 Condensed Matter Physics"
 collection: teaching
 type: "Class"
+date: 2019-09-03
 venue: "University of Illinois Urbana Champaign, Physics Department"
 location: "Urbana, Illinois"
 ---

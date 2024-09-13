@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yubo \"Paul\" Yang"
   avatar           : "portrait.jpg"
-  bio              : "Flatiron Research Fellow"
-  location         : "912A"
-  employer         :
+  bio              : "Assistant Professor"
+  location         : "Berliner Hall 0027"
+  employer         : "Hofstra University"
   googlescholar    : "https://scholar.google.com/citations?user=ZLz7D4IAAAAJ&hl=en"
   email            : "yubo.paul.yang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yubo-yang-78089797"
   orcid            : "http://orcid.org/0000-0002-8800-9426"
   pinterest        :
   soundcloud       :

@@ -14,7 +14,6 @@ author_profile: true
 When two monolayers of crystalline patterns are stacked with a small misalignment, their interference creates a moir´e superlattice with long wave- length. This allows the long-range Coulomb interaction to dominate when a dilute gas of carriers is doped into the bilayer. I use computational algorithms, such as Hartree-Fock (HF), density functional theory (DFT), quantum Monte Carlo (QMC) to explore and predict the properties of these exotic electronic phases.
 
 <!-- honeycomb moire -->
-[arXiv:2406.01715](https://arxiv.org/abs/2406.01715){: .btn .btn--success}
 <details>
 <summary>
 Ferromagnetic semimetal and charge-density wave phases of interacting electrons in a honeycomb moiré potential
@@ -37,10 +36,10 @@ insulator.
 </p></div>
 </details>
 
+[arXiv:2406.01715](https://arxiv.org/abs/2406.01715){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2406-01715-fig1-phases.png" | absolute_url }}" style="width:20em" class="align-center"/>
 
 <!-- 2DEG intermediate phase -->
-[arXiv:2311.18069](https://arxiv.org/abs/2311.18069){: .btn .btn--success}
 <details>
 <summary>
 Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition
@@ -53,10 +52,10 @@ Strongly interacting electronic systems possess rich phase diagrams resulting fr
 </p></div>
 </details>
 
+[arXiv:2311.18069](https://arxiv.org/abs/2311.18069){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2311-18069-fig4.png" | absolute_url }}" style="width:20em" class="align-center"/>
 
 <!-- triangular moire -->
-[arXiv:2306.14954](https://arxiv.org/abs/2306.14954){: .btn .btn--success}
 <details>
 <summary>
 Metal-insulator transition in transition metal dichalcogenide heterobilayer: accurate treatment of interaction
@@ -69,6 +68,7 @@ Transition metal dichalcogenide superlattices provide an exciting new platform f
 </p></div>
 </details>
 
+[arXiv:2306.14954](https://arxiv.org/abs/2306.14954){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2306-14954-fig1.png" | absolute_url }}" style="width:20em" class="align-center"/>
 
 ## Quantum Monte Carlo (QMC) and "Neural Quantum States" (NQS)
@@ -77,7 +77,6 @@ The wavefunction of a correlated many-body system is a map from the high-dimensi
 Quantum Monte Carlo (QMC) is a computational method that efficiently sample the high-dimensional space to directly work with accurate wavefunctions to compute properties.
 
 
-[arXiv:2405.19397](https://arxiv.org/abs/2405.19397){: .btn .btn--success}
 <!-- 2DEG NSCL -->
 <details>
 <summary>
@@ -91,4 +90,39 @@ The two-dimensional electron gas (2DEG) is a fundamental model, which is drawing
 </p></div>
 </details>
 
+[arXiv:2405.19397](https://arxiv.org/abs/2405.19397){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2405-19397-fig23.png" | absolute_url }}" style="width:25em" class="align-center"/>
+
+## Machine learning interatomic potential for high-pressure hydrogen
+
+<!-- nequip -->
+<details>
+<summary>
+The liquid-liquid phase transition of hydrogen and its critical point: Analysis from ab initio simulation and a machine-learned potential
+</summary>
+
+  <div class="notice--info"><p>
+Mathieu Istas, Scott Jensen, <b>Yubo Yang</b>, Markus Holzmann, Carlo Pierleoni, David M. Ceperley
+<br/><br/>
+We simulate high-pressure hydrogen in its liquid phase close to molecular dissociation using a machine-learned interatomic potential. The model is trained with density functional theory (DFT) forces and energies, with the Perdew-Burke-Ernzerhof (PBE) exchange-correlation functional. We show that an accurate NequIP model, an E(3)-equivariant neural network potential, accurately reproduces the phase transition present in PBE. Moreover, the computational efficiency of this model allows for substantially longer molecular dynamics trajectories, enabling us to perform a finite-size scaling (FSS) analysis to distinguish between a crossover and a true first-order phase transition. We locate the critical point of this transition, the liquid-liquid phase transition (LLPT), at 1200-1300 K and 155-160 GPa, a temperature lower than most previous estimates and close to the melting transition.
+</p></div>
+</details>
+
+[arXiv:2412.14953](https://arxiv.org/abs/2412.14953){: .btn .btn--success}
+<img src="{{ "/assets/research/arxiv-2412-14953-fig1.png" | absolute_url }}" style="width:25em" class="align-center"/>
+
+<!-- mace -->
+<details>
+<summary>
+High temperature melting of dense molecular hydrogen from machine-learning interatomic potentials trained on quantum Monte Carlo
+</summary>
+
+  <div class="notice--info"><p>
+Shubhang Goswami, Scott Jensen, <b>Yubo Yang</b>, Markus Holzmann, Carlo Pierleoni, David M. Ceperley
+<br/><br/>
+We present results and discuss methods for computing the melting temperature of dense molecular hydrogen using a machine learned model trained on quantum Monte Carlo data. In this newly trained model, we emphasize the importance of accurate total energies in the training. We integrate a two phase method for estimating the melting temperature with estimates from the Clausius-Clapeyron relation to provide a more accurate melting curve from the model. We make detailed predictions of the melting temperature, solid and liquid volumes, latent heat and internal energy from 50 GPa to 180 GPa for both classical hydrogen and quantum hydrogen. At pressures of roughly 173 GPa and 1635K, we observe molecular dissociation in the liquid phase. We compare with previous simulations and experimental measurements.
+</p></div>
+</details>
+
+[arXiv:2411.15665](https://arxiv.org/abs/2411.15665){: .btn .btn--success}
+<img src="{{ "/assets/research/arxiv-2411-15665-fig7.png" | absolute_url }}" style="width:25em" class="align-center"/>

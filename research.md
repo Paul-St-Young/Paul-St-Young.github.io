@@ -36,8 +36,9 @@ insulator.
 </p></div>
 </details>
 
-[arXiv:2406.01715](https://arxiv.org/abs/2406.01715){: .btn .btn--success}
+[Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.266501){: .btn .btn--info} [arXiv:2406.01715](https://arxiv.org/abs/2406.01715){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2406-01715-fig1-phases.png" | absolute_url }}" style="width:20em" class="align-center"/>
+
 
 <!-- 2DEG intermediate phase -->
 <details>
@@ -52,7 +53,7 @@ Strongly interacting electronic systems possess rich phase diagrams resulting fr
 </p></div>
 </details>
 
-[arXiv:2311.18069](https://arxiv.org/abs/2311.18069){: .btn .btn--success}
+[Nature Physics](https://www.nature.com/articles/s41567-024-02759-8){: .btn .btn--info} [arXiv:2311.18069](https://arxiv.org/abs/2311.18069){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2311-18069-fig4.png" | absolute_url }}" style="width:20em" class="align-center"/>
 
 <!-- triangular moire -->
@@ -68,7 +69,7 @@ Transition metal dichalcogenide superlattices provide an exciting new platform f
 </p></div>
 </details>
 
-[arXiv:2306.14954](https://arxiv.org/abs/2306.14954){: .btn .btn--success}
+[Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076503){: .btn .btn--info} [arXiv:2306.14954](https://arxiv.org/abs/2306.14954){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2306-14954-fig1.png" | absolute_url }}" style="width:20em" class="align-center"/>
 
 ## Quantum Monte Carlo (QMC) and "Neural Quantum States" (NQS)
@@ -90,7 +91,7 @@ The two-dimensional electron gas (2DEG) is a fundamental model, which is drawing
 </p></div>
 </details>
 
-[arXiv:2405.19397](https://arxiv.org/abs/2405.19397){: .btn .btn--success}
+[Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.266504){: .btn .btn--info} [arXiv:2405.19397](https://arxiv.org/abs/2405.19397){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2405-19397-fig23.png" | absolute_url }}" style="width:25em" class="align-center"/>
 
 ## Machine learning interatomic potential for high-pressure hydrogen
@@ -126,3 +127,20 @@ We present results and discuss methods for computing the melting temperature of 
 
 [arXiv:2411.15665](https://arxiv.org/abs/2411.15665){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2411-15665-fig7.png" | absolute_url }}" style="width:25em" class="align-center"/>
+
+
+<!-- DeePMD -->
+<details>
+<summary>
+Stable Solid Molecular Hydrogen above 900 K from a Machine-Learned Potential Trained with Diffusion Quantum Monte Carlo
+</summary>
+
+  <div class="notice--info"><p>
+Hongwei Niu, <b>Yubo Yang</b>, Scott Jensen, Markus Holzmann, Carlo Pierleoni, David M. Ceperley
+<br/><br/>
+We survey the phase diagram of high-pressure molecular hydrogen with path integral molecular dynamics using a machine-learned interatomic potential trained with Quantum Monte Carlo forces and energies. Besides the HCP and C2/c-24 phases, we find two new stable phases both with molecular centers in the Fmmm-4 structure, separated by a molecular orientation transition with temperature. The high temperature isotropic Fmmm-4 phase has a reentrant melting line with a maximum at higher temperature (1450K at 150GPa) than previously estimated and crosses the liquid-liquid transition line around 1200K and 200GPa.
+</p></div>
+</details>
+
+[Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.076102){: .btn .btn--info} [arXiv:2209.00658](https://arxiv.org/abs/2209.00658){: .btn .btn--success}
+<img src="{{ "/assets/research/arxiv-2209.00658-fig1.png" | absolute_url }}" style="width:25em" class="align-center"/>

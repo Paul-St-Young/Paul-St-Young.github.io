@@ -109,7 +109,7 @@ We simulate high-pressure hydrogen in its liquid phase close to molecular dissoc
 </p></div>
 </details>
 
-[arXiv:2412.14953](https://arxiv.org/abs/2412.14953){: .btn .btn--success}
+[Journal of Chemical Physics](https://pubs.aip.org/aip/jcp/article-abstract/162/5/054118/3333656/High-temperature-melting-of-dense-molecular?redirectedFrom=fulltext){: .btn .btn--info} [arXiv:2412.14953](https://arxiv.org/abs/2412.14953){: .btn .btn--success}
 <img src="{{ "/assets/research/arxiv-2412-14953-fig1.png" | absolute_url }}" style="width:25em" class="align-center"/>
 
 <!-- mace -->
